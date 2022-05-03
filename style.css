@@ -14,7 +14,6 @@ body{
     
 }
 
-<<<<<<< Updated upstream
 header{
     background: #000000;
 }
@@ -27,7 +26,8 @@ main{
 .row{
     padding: 0 ;
     margin: 0 !important;
-=======
+}
+
 #body_red{
     background-color: #1D1D1D;
     color: #ffffff;
@@ -51,7 +51,6 @@ main{
 
 #terug_light{
     color: #ffffff;
->>>>>>> Stashed changes
 }
 
 h2{
