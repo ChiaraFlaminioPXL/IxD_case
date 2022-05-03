@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Rozha+One&display=swap');
+
+body{
+    height: 100%;
+    overflow: scroll;
+}
+
+h2{
+    font-family: 'Rozha One', serif;
+}
+
+.img-home{
+    width: 66px;
+    height: 76px;
+}
+
+p{
+    font-size: 12px;
+}
