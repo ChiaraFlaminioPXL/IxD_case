@@ -3,13 +3,13 @@
 body{
     height: 100%;
     overflow: scroll;
-    
 }
 
-main{
+#body_red{
     background-color: #2a0000;
     color: #ffffff;
 }
+
 h2{
     font-family: 'Rozha One', serif;
 }
