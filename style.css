@@ -13,6 +13,7 @@ body{
     color: #000000;
 }
 
+<<<<<<< Updated upstream
 header{
     background: #000000;
 }
@@ -24,6 +25,31 @@ main{
 .row{
     padding: 0 ;
     margin: 0 !important;
+=======
+#body_red{
+    background-color: #1D1D1D;
+    color: #ffffff;
+}
+
+#h1_light{
+    font-size: 53px;
+    opacity: 0.5;
+}
+
+#details_btn_red{
+    color: #ffffff;
+    background-color: #5E3333;
+    font-size: 18px;
+}
+
+#wijnflesfoto{
+    width: 350px;
+    height: auto;
+}
+
+#terug_light{
+    color: #ffffff;
+>>>>>>> Stashed changes
 }
 
 h2{
